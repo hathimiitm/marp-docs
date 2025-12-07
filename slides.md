@@ -13,11 +13,9 @@ Email: **24f2005641@ds.study.iitm.ac.in**
 
 ---
 
-## Custom Theme Example  
-This slide uses a custom theme.
-
-<!-- _color: red -->
-This text uses a Marp directive to change color.
+<!-- _class: lead -->
+# Custom Theme Example  
+This slide uses a custom theme and a valid Marp directive.
 
 ---
 
