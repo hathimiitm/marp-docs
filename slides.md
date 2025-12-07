@@ -13,9 +13,8 @@ Email: **24f2005641@ds.study.iitm.ac.in**
 
 ---
 
-<!-- _footer: This is a footer -->
-# Custom Theme Example  
-This slide uses a custom theme and a VALID Marp directive.
+<!-- PURE DIRECTIVE SLIDE REQUIRED BY IITM -->
+<!-- _footer: This is a footer added as a Marp directive -->
 
 ---
 
