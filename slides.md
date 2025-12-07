@@ -13,13 +13,12 @@ Email: **24f2005641@ds.study.iitm.ac.in**
 
 ---
 
-<!-- _class: lead -->
+<!-- _footer: This is a footer -->
 # Custom Theme Example  
-This slide uses a custom theme and includes a valid Marp directive.
+This slide uses a custom theme and a VALID Marp directive.
 
 ---
 
-<!-- BACKGROUND IMAGE SLIDE -->
 ![bg](https://picsum.photos/1600/900)
 
 ---
