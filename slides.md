@@ -18,24 +18,19 @@ Email: **24f2005641@ds.study.iitm.ac.in**
 ---
 
 ## Custom Theme Example
-This slide uses the custom theme defined in the front matter.
+This slide uses the custom theme defined above.
 
 ---
 
-<!-- Background slide -->
-<!--
-backgroundImage: url('https://picsum.photos/seed/example/1600/900')
-backgroundSize: cover
-backgroundPosition: center
--->
+<!-- _backgroundImage: url('https://picsum.photos/1600/900') -->
+<!-- _backgroundSize: cover -->
 
-# Architecture Diagram  
-(Background Image Applied)
+# Architecture Slide  
+**(Background image applied using valid Marp syntax)**
 
 ---
 
 ## Complexity Formula
-Example math:
 
 $$T(n) = O(n \log n)$$
 
