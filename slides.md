@@ -15,7 +15,7 @@ Email: **24f2005641@ds.study.iitm.ac.in**
 
 <!-- _class: lead -->
 # Custom Theme Example  
-This slide uses a custom theme and a valid Marp directive.
+This slide uses a custom theme and includes a valid Marp directive.
 
 ---
 
