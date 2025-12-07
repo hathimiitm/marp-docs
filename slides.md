@@ -16,9 +16,12 @@ Email: **24f2005641@ds.study.iitm.ac.in**
 ## Custom Theme Example  
 This slide uses a custom theme.
 
+<!-- _color: red -->
+This text uses a Marp directive to change color.
+
 ---
 
-<!-- BACKGROUND IMAGE SLIDE (VALID FOR IITM) -->
+<!-- BACKGROUND IMAGE SLIDE -->
 ![bg](https://picsum.photos/1600/900)
 
 ---
